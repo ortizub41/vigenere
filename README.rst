@@ -18,3 +18,4 @@ Features
 --------
 
 * TODO
+  Add Travis CI
